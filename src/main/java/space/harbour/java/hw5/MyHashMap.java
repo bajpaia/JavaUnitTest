@@ -1,4 +1,4 @@
-package space.harbpur.java.hw6;
+package space.harbour.java.hw5;
 
 import java.util.*;
 public class MyHashMap<K, V> implements Map<K, V>
